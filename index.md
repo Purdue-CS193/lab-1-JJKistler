@@ -1,11 +1,16 @@
 ## Welcome to GitHub Pages
 
+## Josh Kistler's first CS193 Lab!
+- I appreciate the atmosphere.
+- I like the fact we are learning practical and professional skills and obtaining resources for the future.
+- The TA's are pretty cool.
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### Josh
 
 ### Markdown
 
