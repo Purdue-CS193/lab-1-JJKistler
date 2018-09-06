@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Josh
-This is my edit tot he website.
-
-WOAAAAHHHHHH
+This is my edit to the website.
 
 ### Markdown
 
