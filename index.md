@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## Josh Kistler's first CS193 Lab!
 - I appreciate the atmosphere.
 - I like the fact we are learning practical and professional skills and obtaining resources for the future.
